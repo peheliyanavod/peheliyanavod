@@ -23,7 +23,7 @@ Building reliable, user-focused web applications and exploring Generative AI.
 I'm a software engineer and a university student who enjoys turning ideas into clean, maintainable products across the stack, from responsive front ends to REST APIs and databases.
 
 - 💼 Working as an **Associate Software Engineer**
-- 🎓 Undergraduate at the **University of Kelaniya**
+- 🎓 Graduated at the **University of Kelaniya**
 - 🤖 Currently exploring **Generative AI, Large Language Models, and AI-assisted development**
 - ✍️ Writing about what I learn on [Medium](https://medium.com/@hwpeheliya)
 - 📫 Open to collaboration, learning opportunities, and interesting projects
@@ -54,23 +54,9 @@ I'm a software engineer and a university student who enjoys turning ideas into c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=peheliyanavod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peheliyanavod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-
 <img src="https://streak-stats.demolab.com/?user=peheliyanavod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Let's Connect
 
 <div align="center">
 
