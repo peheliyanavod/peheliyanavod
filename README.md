@@ -1,73 +1,84 @@
-<h1 align="center">Hi 👋, I'm Peheliya Dhanuka Navod</h1>
-<h3 align="center">🚀 Associate Software Engineer | 🎓 Undergraduate at University of Kelaniya</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peheliyanavod&label=Profile%20Views&color=0e75b6&style=flat" alt="peheliyanavod" />
-</p>
+# Peheliya Dhanuka Navod
+
+**Associate Software Engineer · BSc (Hons) in Software Engineering at the University of Kelaniya**
+
+Building reliable, user-focused web applications and exploring Generative AI.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://react-portfolio-gray-chi.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-2b2b2b?style=for-the-badge&logo=readthedocs&logoColor=white)](https://react-portfolio-gray-chi.vercel.app/Dhanuka%20CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peheliya-danuka)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hwpeheliya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwpeheliya@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=peheliyanavod&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently learning **Generative AI & Large Language Models**  
-- 💻 Check out my portfolio: [react-portfolio-gray-chi.vercel.app](https://react-portfolio-gray-chi.vercel.app/)  
-- ✍️ I share insights & articles on [Medium](https://medium.com/@hwpeheliya)  
-- 📄 Know more about my experience: [View CV](https://react-portfolio-gray-chi.vercel.app/Dhanuka%20CV.pdf)  
-- 📫 Reach me at **hwpeheliya@gmail.com**
+## About
+
+I'm a software engineer and a university student who enjoys turning ideas into clean, maintainable products across the stack, from responsive front ends to REST APIs and databases.
+
+- 💼 Working as an **Associate Software Engineer**
+- 🎓 Undergraduate at the **University of Kelaniya**
+- 🤖 Currently exploring **Generative AI, Large Language Models, and AI-assisted development**
+- ✍️ Writing about what I learn on [Medium](https://medium.com/@hwpeheliya)
+- 📫 Open to collaboration, learning opportunities, and interesting projects
 
 ---
 
-### 📝 Latest Blog Posts  
+## Tech Stack
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,php,codeigniter&theme=dark)
+
+**Databases & Cloud**
+
+![Data](https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark)
+
+**Tools & Design**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=peheliyanavod&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peheliyanavod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+<img src="https://streak-stats.demolab.com/?user=peheliyanavod&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/peheliya-danuka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/peheliya.danuka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/peheliya_dhanuka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@hwpeheliya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
+## Let's Connect
 
----
+<div align="center">
 
-### ⚙️ Languages & Tools  
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://codeigniter.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/peheliya-danuka)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/peheliya.danuka)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/peheliya_dhanuka)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hwpeheliya)
 
----
+*Striving to innovate, learn, and build meaningful software solutions.*
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peheliyanavod&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peheliyanavod&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-<p align="center">
-  💡 *“Striving to innovate, learn, and build meaningful software solutions.”*  
-</p>
+</div>
